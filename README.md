@@ -1,6 +1,6 @@
 # HackerRank Challenges in JavaScript/TypeScript
 
-This repository contains solutions for various HackerRank challenges implemented in JavaScript and TypeScript. The goal is to provide a practical reference for developers looking to improve their skills in algorithms and data structures.
+This repository contains solutions for various [HackerRank](https://www.hackerrank.com) challenges implemented in JavaScript and TypeScript. The goal is to provide a practical reference for developers looking to improve their skills in algorithms and data structures.
 
 ## Included Challenges
 
@@ -29,4 +29,4 @@ Each directory corresponds to a specific category of challenges, containing clea
 
 ## License
 
-This project is under the [MIT License] license. See the LICENSE.md file for more details.
+This project is under the MIT license. See the LICENSE.md file for more details.
