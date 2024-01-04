@@ -6,6 +6,8 @@
 // import { divisibleSumPairs } from './divisible_sum_pairs/solution';
 // import { matchingStrings } from './sparse_arrays/solution';
 
+import { lonelyInteger } from './week_2/lonely_integer/solution';
+
 // plusMinus()
 // minMaxSum()
 // timeConversion("07:05:45PM")
@@ -15,3 +17,4 @@
 // const strings = ['aba', 'baba', 'aba', 'xzxb'];
 // const queries = ['aba', 'xzxb', 'ab'];
 // matchingStrings(strings, queries);
+lonelyInteger([1, 2, 3, 4, 3, 2, 1]);
